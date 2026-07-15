@@ -3,7 +3,7 @@
 
 > 자동화 설비 제어, 소프트웨어 개발, IT 인프라를 연결하는 18년차 엔지니어입니다.
 
-[Play The Fusion Engineer](WEBGL_URL) / [View Project Repository](_REPOSITORY_URL)
+[Play The Fusion Engineer](https://kbsand.github.io/TheFusionEngineer/) / [View Project Repository](REPOSITORY_URL)
 
 ---
 
