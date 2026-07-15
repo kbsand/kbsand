@@ -149,7 +149,10 @@ The Fusion Engineer
 - Career journey visualization
 - Ending scene connected to this GitHub portfolio
 
-[Play WebGL Demo](_WEBGL_URL) / [View Source Code](_REPOSITORY_URL)
+[Play WebGL Demo](https://kbsand.github.io/TheFusionEngineer/) / [View Source Code](_REPOSITORY_URL)
+<img width="1913" height="1022" alt="image" src="https://github.com/user-attachments/assets/4f6c549b-8de1-4b9f-8014-2f8e19237978" />
+
+
 
 ## Tech Stack
 
