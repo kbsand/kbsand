@@ -3,7 +3,7 @@
 
 > 자동화 설비 제어, 소프트웨어 개발, IT 인프라를 연결하는 18년차 엔지니어입니다.
 
-[Play The Fusion Engineer](https://kbsand.github.io/TheFusionEngineer/) / [View Project Repository](REPOSITORY_URL)
+[Play The Fusion Engineer](https://kbsand.github.io/TheFusionEngineer/) / [View Project Repository](https://github.com/kbsand/TheFusionEngineer)
 
 ---
 
@@ -149,7 +149,7 @@ The Fusion Engineer
 - Career journey visualization
 - Ending scene connected to this GitHub portfolio
 
-[Play WebGL Demo](https://kbsand.github.io/TheFusionEngineer/) / [View Source Code](_REPOSITORY_URL)
+[Play WebGL Demo](https://kbsand.github.io/TheFusionEngineer/) / [View Source Code](https://github.com/kbsand/TheFusionEngineer)
 <img width="1913" height="1022" alt="image" src="https://github.com/user-attachments/assets/4f6c549b-8de1-4b9f-8014-2f8e19237978" />
 
 
