@@ -190,4 +190,4 @@ The Fusion Engineer
 
 ---
 
-Company names and internal project identifiers have been anonymized for confidentiality.
+Company names and internal project identifiers have been anonymized for confidentiality. ![Profile Views](https://komarev.com/ghpvc/?username=kbsand)
